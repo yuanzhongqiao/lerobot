@@ -48,6 +48,19 @@
     <td align="center" _msttexthash="39671801" _msthash="302">SimXArm 环境上的 TDMPC 策略</td>
     <td align="center" _msttexthash="37574368" _msthash="303">PushT env 上的扩散策略</td>
   </tr>
+
+  <table>
+  <tr>
+    <td><img src="http://remicadene.com/assets/gif/aloha_act.gif" width="100%" alt="ACT policy on ALOHA env"/></td>
+    <td><img src="http://remicadene.com/assets/gif/simxarm_tdmpc.gif" width="100%" alt="TDMPC policy on SimXArm env"/></td>
+    <td><img src="http://remicadene.com/assets/gif/pusht_diffusion.gif" width="100%" alt="Diffusion policy on PushT env"/></td>
+  </tr>
+  <tr>
+    <td align="center">ACT policy on ALOHA env</td>
+    <td align="center">TDMPC policy on SimXArm env</td>
+    <td align="center">Diffusion policy on PushT env</td>
+  </tr>
+</table>
 </tbody></table></markdown-accessiblity-table>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6523322" _msthash="304">确认</h3><a id="user-content-acknowledgment" class="anchor" aria-label="永久链接： 致谢" href="#acknowledgment" _mstaria-label="596453" _msthash="305"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
